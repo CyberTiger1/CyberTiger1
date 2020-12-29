@@ -3,19 +3,38 @@ Script ini untuk belajar Matematika
 Jadi jangan bully gua anjing
 Kalo bully buat sendiri sana
 Susah anying buat script
-Kalo mau yang lebih bagus buat sendiri
+Kalo mau yang lebih bagus buat sendiri aja anying
+
+
+
+
+
+
+
 
 # Jangan Lupa Siapkan
 ## Bahan Bahan Berikut
+```bash
 > Hp/PC
 > Termux ada di play store
 > Kopi
 > UDUT
+
+Mantap anying 👍😋
 ```
-Mantap anying
+
+
+
+
+
+
+
+
+
 
 # CARA INSTALL 
 ## TERMUX
+```bash
 > pkg update && pkg upgrade
 > pkg install python
 > pkg install python2
@@ -26,6 +45,7 @@ Mantap anying
 > cd Matematika
 > python2 Matematika.py
 ```
+
 
 
 
