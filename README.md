@@ -3,15 +3,7 @@ Script ini untuk belajar Matematika
 Jadi jangan bully gua anjing
 Kalo bully buat sendiri sana
 Susah anying buat script
-
-
-
-
-
-
-
-
-
+Kalo mau yang lebih bagus buat sendiri
 
 # Jangan Lupa Siapkan
 ## Bahan Bahan Berikut
@@ -19,17 +11,8 @@ Susah anying buat script
 > Termux ada di play store
 > Kopi
 > UDUT
-
-Mantap anying
 ```
-
-
-
-
-
-
-
-
+Mantap anying
 
 # CARA INSTALL 
 ## TERMUX
